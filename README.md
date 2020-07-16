@@ -6,9 +6,13 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+
   Too many things to mention. Too many things technology based and even more that are not.
+  
   I want to know more about k8s but dont have time to dig deeper than I already have
+  
   I want to do more with 3d designs and play with all the printers not just FDM
+  
   I want to finish the corchet things that I have started for my kids
   
 - 🌱 I’m currently learning ...
